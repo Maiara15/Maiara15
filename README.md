@@ -2,4 +2,4 @@
 - 👋 Oi, eu sou @Maiara15
 - 👍 Meu e-mail de contato é maiara.henrique@escola.pr.gov.br
 - 👀 Estou interessada em aprender mais sobre tecnologia 
-- 🌱 Atualmente estou aprendendo a programação
+- 🌱 Atualmente estou aprendeo um programação 
